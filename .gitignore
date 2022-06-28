@@ -21,4 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-target/
+target/*
+!target/quarkus-app
+!target/quarkus-app/app/*
+!target/quarkus-app/lib/boot/*
+!target/quarkus-app/lib/main/*
+!target/quarkus-app/quarkus/*
+!target/quarkus-app/quarkus-run.jar
+.vscode/settings.json
+src/main/resources/META-INF/resources/.DS_Store
+.s2i/.DS_Store
+.DS_Store
