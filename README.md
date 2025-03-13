@@ -1,6 +1,6 @@
 # sandbox-java
 
-## Sample code for Developer Sandbox for Red Hat OpenShift, to be used as an "s2i" example!!
+## Sample code for Developer Sandbox for Red Hat OpenShift, to be used as an "s2i" example!!!!
 
 [Developer Sandbox for Red Het OpenShift](https://developers.redhat.com/developer-sandbox/get-started) gives you a renewable 30-day free access to an OpenShift cluster.
 
